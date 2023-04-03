@@ -1,6 +1,3 @@
-[submodule "HighwayEnv"]
-	path = HighwayEnv
-	url = https://github.com/Farama-Foundation/HighwayEnv.git
 [submodule "notebooks/HighwayEnv"]
 	path = notebooks/HighwayEnv
 	url = https://github.com/Farama-Foundation/HighwayEnv.git
