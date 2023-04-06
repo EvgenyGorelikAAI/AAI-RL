@@ -127,3 +127,9 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+
+# Custom
+notebooks/rl-agents
+notebooks/stable-baselines3
+notebooks/highway_dqn
