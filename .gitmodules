@@ -1,3 +1,9 @@
 [submodule "notebooks/HighwayEnv"]
 	path = notebooks/HighwayEnv
 	url = https://github.com/Farama-Foundation/HighwayEnv.git
+[submodule "notebooks/rl-agents"]
+	path = notebooks/rl-agents
+	url = https://github.com/eleurent/rl-agents
+[submodule "notebooks/stable-baselines3"]
+	path = notebooks/stable-baselines3
+	url = https://github.com/DLR-RM/stable-baselines3
