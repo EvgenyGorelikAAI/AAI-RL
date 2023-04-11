@@ -7,3 +7,9 @@
 [submodule "notebooks/stable-baselines3"]
 	path = notebooks/stable-baselines3
 	url = https://github.com/DLR-RM/stable-baselines3
+[submodule "notebooks/finite-mdp"]
+	path = notebooks/finite-mdp
+	url = https://github.com/eleurent/finite-mdp
+[submodule "notebooks/spinningup"]
+	path = notebooks/spinningup
+	url = https://github.com/openai/spinningup
