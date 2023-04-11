@@ -10,6 +10,3 @@
 [submodule "notebooks/finite-mdp"]
 	path = notebooks/finite-mdp
 	url = https://github.com/eleurent/finite-mdp
-[submodule "notebooks/spinningup"]
-	path = notebooks/spinningup
-	url = https://github.com/openai/spinningup
