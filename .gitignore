@@ -132,4 +132,4 @@ dmypy.json
 # Custom
 notebooks/rl-agents
 notebooks/stable-baselines3
-notebooks/highway_dqn
+notebooks/trained_models
