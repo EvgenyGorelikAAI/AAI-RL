@@ -133,3 +133,4 @@ dmypy.json
 notebooks/rl-agents
 notebooks/stable-baselines3
 notebooks/trained_models
+scripts
