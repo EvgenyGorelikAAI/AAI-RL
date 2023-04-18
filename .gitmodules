@@ -10,3 +10,9 @@
 [submodule "notebooks/finite-mdp"]
 	path = notebooks/finite-mdp
 	url = https://github.com/eleurent/finite-mdp
+[submodule "notebooks/rl-baselines3-zoo"]
+	path = notebooks/rl-baselines3-zoo
+	url = https://github.com/DLR-RM/rl-baselines3-zoo
+[submodule "notebooks/ray"]
+	path = notebooks/ray
+	url = https://github.com/ray-project/ray
